@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Scratch / private
+scratch/
+.attic/
+*.local.md
+
+# Never commit real TryHackMe answers/flags
+answers.txt
+flags.txt
