@@ -1,7 +1,6 @@
 # Walkthrough — Prompt Injection vs. MENTOR (Task 2)
 
-> First hands-on offensive exercise in the path: extract a simulated chatbot's hidden system prompt via prompt injection.
->
+
 
 
 ## Objective
