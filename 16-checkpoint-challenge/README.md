@@ -2,8 +2,7 @@
 
 > Section 4 (AI Supply Chain Security), Room 5 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity). A single challenge — "The Audit."
 
-![Difficulty](https://img.shields.io/badge/difficulty-Easy-brightgreen)
-![Type](https://img.shields.io/badge/type-Challenge-lightgrey)
+
 
 ## Overview
 
