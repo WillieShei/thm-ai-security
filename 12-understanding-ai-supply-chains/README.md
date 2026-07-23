@@ -2,9 +2,7 @@
 
 > Section 4 (AI Supply Chain Security), Room 1 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity). Fundamentals of the AI supply chain, its attack surface, real incidents, and a model-vetting practical.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Easy-brightgreen)
-![Type](https://img.shields.io/badge/type-Supply%20Chain-blueviolet)
-![Frameworks](https://img.shields.io/badge/maps-OWASP%20LLM03%20%C2%B7%20ATLAS%20AML.T0010-informational)
+
 
 ## Overview
 
