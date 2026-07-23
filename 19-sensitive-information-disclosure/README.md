@@ -2,9 +2,7 @@
 
 > Section 5 (Data Poisoning), Room 3 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity). OWASP **LLM02** — how embeddings, retrieval, and weak access controls leak private data.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-Data%20Leakage-red)
-![Frameworks](https://img.shields.io/badge/maps-OWASP%20LLM02-informational)
+
 
 ## Overview
 
