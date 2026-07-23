@@ -2,9 +2,6 @@
 
 > Room 8 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity) (AI1). Defender-focused, multi-framework methodology: AI asset inventory, STRIDE adapted for AI, MITRE ATLAS enrichment, and OWASP LLM Top 10 component mapping — applied end-to-end to one enterprise scenario.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-Threat%20Modeling-blueviolet)
-![Status](https://img.shields.io/badge/status-Completed-success)
 
 ## Overview
 
