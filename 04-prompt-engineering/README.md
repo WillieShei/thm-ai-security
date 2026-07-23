@@ -2,9 +2,6 @@
 
 > Room 4 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity) (AI1). The practical mechanics of controlling LLMs: tokens, generation parameters, prompt structure, the system/user instruction hierarchy, and advanced techniques.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Easy-brightgreen)
-![Type](https://img.shields.io/badge/type-LLM%20Control-blue)
-![Status](https://img.shields.io/badge/status-Completed-success)
 
 ## Overview
 
