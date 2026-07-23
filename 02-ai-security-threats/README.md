@@ -2,9 +2,6 @@
 
 > Room 2 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity) (AI1). Where the foundations meet security: how attackers weaponize AI, what vulnerabilities models introduce, and how defenders fight back.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Easy-brightgreen)
-![Type](https://img.shields.io/badge/type-Threats%20%26%20Defense-orange)
-![Status](https://img.shields.io/badge/status-Completed-success)
 
 ## Overview
 
