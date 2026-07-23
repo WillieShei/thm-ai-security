@@ -2,9 +2,6 @@
 
 > Room 5 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity) (AI1). Applying AI/ML to **DFIR** — anomaly detection, deepfake/media forensics, NLP phishing analysis, and a full command-line breach investigation using scikit-learn scripts.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-DFIR-red)
-![Status](https://img.shields.io/badge/status-Completed-success)
 
 ## Overview
 
