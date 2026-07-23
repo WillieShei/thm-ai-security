@@ -2,9 +2,7 @@
 
 > Section 5 (Data Poisoning), Room 2 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity). How poisoning corrupts training data, embeddings, and ingestion pipelines.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-Data%20Poisoning-red)
-![Frameworks](https://img.shields.io/badge/maps-OWASP%20LLM04-informational)
+
 
 ## Overview
 
