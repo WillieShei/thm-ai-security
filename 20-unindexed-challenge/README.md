@@ -2,8 +2,7 @@
 
 > Section 5 (Data Poisoning), Room 4 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity). A single challenge — audit an assistant for a retrieval-boundary failure.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-Challenge-lightgrey)
+
 
 ## Overview
 
