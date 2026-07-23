@@ -2,7 +2,6 @@
 
 > Full command-line DFIR investigation on a deployed lab machine. ML-assisted triage + manual validation to reconstruct a complete breach.
 >
-> **Note:** flags, hostnames, IPs, and exact artifact values redacted per THM policy. This documents the investigative methodology and the reconstructed attack chain.
 
 ## Objective
 
