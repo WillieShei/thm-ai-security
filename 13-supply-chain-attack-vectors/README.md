@@ -2,8 +2,6 @@
 
 > Section 4 (AI Supply Chain Security), Room 2 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity). The **TryTrainMe breach** — investigate malicious serialisation, dependency confusion, repo manipulation, and API compromise.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-Offensive%20Supply%20Chain-red)
 
 ## Overview
 
