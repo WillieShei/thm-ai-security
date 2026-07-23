@@ -2,9 +2,6 @@
 
 > Room 9 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity) (AI1). The most offensive, tool-heavy room: discovering, fingerprinting, and enumerating real AI infrastructure — then seeing what it all looks like from the defender's SIEM.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-Offensive%20Recon-red)
-![Status](https://img.shields.io/badge/status-Completed-success)
 
 ## Overview
 
