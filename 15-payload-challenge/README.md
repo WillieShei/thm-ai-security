@@ -2,8 +2,6 @@
 
 > Section 4 (AI Supply Chain Security), Room 4 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity). A single hands-on VM challenge — "The Incident."
 
-![Difficulty](https://img.shields.io/badge/difficulty-Easy-brightgreen)
-![Type](https://img.shields.io/badge/type-Challenge-lightgrey)
 
 ## Overview
 
