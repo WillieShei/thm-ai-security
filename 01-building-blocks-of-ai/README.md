@@ -2,9 +2,6 @@
 
 > Room 1 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity) (AI1). Foundational concepts for everything that follows: how AI, machine learning, deep learning, and LLMs actually work.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Easy-brightgreen)
-![Type](https://img.shields.io/badge/type-Foundations-blue)
-![Status](https://img.shields.io/badge/status-Completed-success)
 
 ## Overview
 
