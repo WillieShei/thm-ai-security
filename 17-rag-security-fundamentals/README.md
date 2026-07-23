@@ -2,9 +2,7 @@
 
 > Section 5 (Data Poisoning), Room 1 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity). How RAG works and where retrieval, context, and trust boundaries break.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Easy-brightgreen)
-![Type](https://img.shields.io/badge/type-RAG%20Security-blue)
-![Frameworks](https://img.shields.io/badge/maps-OWASP%20LLM01%20%C2%B7%20LLM04%20%C2%B7%20LLM07-informational)
+
 
 ## Overview
 
