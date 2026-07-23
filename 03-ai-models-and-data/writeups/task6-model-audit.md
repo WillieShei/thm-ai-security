@@ -2,7 +2,6 @@
 
 > Hands-on due-diligence exercise: audit a simulated Hugging Face-style model repository and find the hidden red flags.
 >
-> **Note:** flag redacted per THM policy. Documents method and reasoning.
 
 ## Objective
 
