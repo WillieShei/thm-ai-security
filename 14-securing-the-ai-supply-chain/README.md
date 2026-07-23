@@ -2,9 +2,6 @@
 
 > Section 4 (AI Supply Chain Security), Room 3 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity). Build defences for every gap exposed by the TryTrainMe breach.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-Defensive%20Supply%20Chain-2ea44f)
-![Frameworks](https://img.shields.io/badge/maps-OWASP%20LLM03%20%C2%B7%20ATLAS%20%C2%B7%20NIST%20AI%20RMF-informational)
 
 ## Overview
 
