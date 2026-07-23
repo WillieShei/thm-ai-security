@@ -2,9 +2,6 @@
 
 > Room 10 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity) (AI1). The deepest, most incident-rich treatment of prompt injection — direct and indirect — with two hands-on exploits.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-Offensive%20LLM-red)
-![Status](https://img.shields.io/badge/status-Completed-success)
 
 ## Overview
 
