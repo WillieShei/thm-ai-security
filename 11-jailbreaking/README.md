@@ -2,9 +2,6 @@
 
 > Room 11 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity) (AI1). Attacking a model's own safety alignment — why "jails" exist, why they're fragile, and the classic + multi-turn techniques that bypass them.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-Safety%20Red%20Team-red)
-![Status](https://img.shields.io/badge/status-Completed-success)
 
 ## Overview
 
