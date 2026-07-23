@@ -2,7 +2,6 @@
 
 > Graded practical: apply an assigned prompting technique to a security task, scored /10 per attempt. Accumulate 40 points to earn the flag.
 >
-> **Note:** flag redacted per THM policy. Documents approach.
 
 ## Objective
 
