@@ -2,9 +2,6 @@
 
 > Room 7 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity) (AI1). A comprehensive, research-grounded tour of the LLM attack surface across four threat categories — with a live hands-on attack in every one.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-Offensive%20LLM-red)
-![Status](https://img.shields.io/badge/status-Completed-success)
 
 ## Overview
 
