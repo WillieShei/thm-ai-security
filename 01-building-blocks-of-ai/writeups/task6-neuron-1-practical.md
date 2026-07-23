@@ -2,7 +2,6 @@
 
 > Consolidated hands-on challenge for Room 1. You operate a simulated neural network end-to-end to retrieve a flag.
 >
-> **Note:** Actual TryHackMe flags are redacted in this public repo per THM's content policy. Steps below document the *approach and reasoning*, not the answer string.
 
 ## Objective
 
