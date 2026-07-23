@@ -2,9 +2,7 @@
 
 > Room 3 of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity) (AI1). AI/ML **supply chain security** — data provenance, training-data leakage, model-building trade-offs, fine-tuning inheritance, and the black-box problem.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-Supply%20Chain-blueviolet)
-![Status](https://img.shields.io/badge/status-Completed-success)
+
 
 ## Overview
 
