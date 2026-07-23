@@ -2,7 +2,6 @@
 
 > A structured, **non-adversarial** pre-deployment audit: interview a simulated AI agent about itself, then map findings to OWASP LLM Top 10.
 >
-> **Note:** flag redacted per THM policy. Documents method.
 
 ## Objective
 
