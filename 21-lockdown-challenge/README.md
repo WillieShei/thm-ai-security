@@ -2,8 +2,6 @@
 
 > Section 5 (Data Poisoning), Room 5 — the final room of the [TryHackMe AI Security path](https://tryhackme.com/aisecurity). Fix three vulnerabilities in a RAG assistant; each correct remediation yields a flag fragment.
 
-![Difficulty](https://img.shields.io/badge/difficulty-Medium-yellow)
-![Type](https://img.shields.io/badge/type-Challenge%20(Defensive)-2ea44f)
 
 ## Overview
 
